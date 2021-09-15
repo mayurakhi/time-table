@@ -1,0 +1,17 @@
+table{
+    width : 100%;
+}
+tr:nth-of-type(even){
+    background:#eee;
+}
+th{
+    background:rgb(165, 139, 187);
+    color:white;
+}
+td, th {
+    padding: 6px;
+    text-align: middle;
+}
+tr{
+    text-align: center;
+}
